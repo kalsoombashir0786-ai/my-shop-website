@@ -1,4 +1,4 @@
-# My Shop - Responsive E-commerce Website
+# Mini Shop Card - Responsive E-commerce Website
 
 This is a responsive online shopping website created using HTML, CSS and JavaScript.
 
